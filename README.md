@@ -1,6 +1,6 @@
 graphics
 ============================================================
-University projects related with the field of Graphics 
+University projects, field: Graphics 
 
 Languages, libraries, apis used : opengl, glut
 [01]
