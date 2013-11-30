@@ -2,7 +2,7 @@ graphics
 ============================================================
 University projects, field: Graphics 
 
-Languages, libraries, apis used : opengl, glut
+Languages, libraries, apis used : opengl, glut.
 
 [01]
 
