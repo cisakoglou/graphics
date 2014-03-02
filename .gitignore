@@ -1,0 +1,8 @@
+opencv/*
+opencv2/*
+*.docx
+*.pdf
+*.exe
+*.dll
+*.h
+*.hpp
